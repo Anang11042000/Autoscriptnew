@@ -31,3 +31,6 @@ sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.di
 - CHANGE PORT FOR VPN SERVICES
 - SPEED LIMITER USERS SO THEY ARE NOT GREEDY FOR BANDWITH
 - FAIL2BAN, DDOS FLATE, NGINX, WEBMIN, SPEEDTEST
+
+# ALL MENU
+https://github.com/xfjdllvbnrt/Autoscriptnew/blob/main/menu.png
