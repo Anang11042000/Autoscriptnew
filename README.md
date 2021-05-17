@@ -34,3 +34,9 @@ sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.di
 
 ALL MENU
 https://raw.githubusercontent.com/xfjdllvbnrt/Autoscriptnew/main/menu.png
+
+------------------------------
+Contact:
+Telegram : t.me/mawarx86
+Whatsapp : wa.me/6285876948650
+Email    : mawarx86@gmail.com
