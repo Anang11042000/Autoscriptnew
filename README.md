@@ -37,6 +37,6 @@ https://raw.githubusercontent.com/xfjdllvbnrt/Autoscriptnew/main/menu.png
 
 ------------------------------
 Contact:
-Telegram : t.me/mawarx86
-Whatsapp : wa.me/6285876948650
+Telegram : https://t.me/mawarx86
+Whatsapp : https://wa.me/6285876948650
 Email    : mawarx86@gmail.com
