@@ -17,7 +17,7 @@ go to searchlist:
 apt-cache search linux-image
 
 install:
-apt install <linux-image-blablabla>
+apt install linux-image-blablabla
 
 choose kernel version what you want, but i not recommended for cloud and rt version.
 
